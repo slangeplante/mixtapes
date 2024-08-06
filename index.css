@@ -6,11 +6,15 @@ body {
     color: rgb(5, 28, 10);
     margin-left: 20px;
     font-family:'Courier New', Courier, monospace;
-    font-size: large;
+    font-size: x-large;
   }
   h2 {
     color: rgb(5, 28, 10);
     margin-left: 20px;
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
+  }
+  div {
+    align-content: center;
+    margin-top: 64px;
   }
