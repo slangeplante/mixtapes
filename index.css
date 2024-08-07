@@ -19,5 +19,7 @@ body {
     display: flex;
   }
   .tape {
-    margin: 16px;
+  }
+  .spacing {
+    padding: 16ox;
   }
