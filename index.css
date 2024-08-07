@@ -17,9 +17,9 @@ body {
   }
   .shelf {
     display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
   }
   .tape {
-  }
-  .spacing {
-    padding: 16ox;
+    width: 49%;
   }
