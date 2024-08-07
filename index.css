@@ -21,4 +21,5 @@ body {
   }
   .tape {
     width: 49%;
+    min-width: 300px;
   }
