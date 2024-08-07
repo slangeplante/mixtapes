@@ -17,7 +17,7 @@ body {
   }
   .shelf {
     display: flex;
-    align-content: center;
+    width: max-content;
   }
   .tape {
     padding: 16px;
