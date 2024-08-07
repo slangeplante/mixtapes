@@ -19,3 +19,7 @@ body {
     align-content: center;
     margin-top: 64px;
   }
+  li {
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
