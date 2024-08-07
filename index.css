@@ -17,7 +17,6 @@ body {
   }
   .shelf {
     display: flex;
-    justify-content: space-between;
   }
   .tape {
     padding: 16px;
