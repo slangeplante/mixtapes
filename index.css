@@ -17,9 +17,23 @@ body {
   }
   .shelf {
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 20px;
+  }
+  @media (max-width:800px) {
+    .shelf {
+        flex-direction: column;
+    }
   }
   .tape {
     width: 49%;
     min-width: 300px;
+  }
+  @media (max-width:800px) {
+    .tape {
+        width: 100%;
+        min-width: 300px;
+    }
   }
